@@ -27,7 +27,10 @@ else:#sino
  
 print(" ")#se inplimira "" en la pantalla
 
-![image](https://github.com/user-attachments/assets/56b1a002-21c9-4924-beb4-b9cd4f8fb598)
+#EL CODIGO
 
+![image](https://github.com/user-attachments/assets/b2eab312-1702-4f31-8c5c-e30cbf0e9bdc)
+
+#RESULTADO
 
 ![image](https://github.com/user-attachments/assets/68ede0aa-6881-4b4f-94dc-07bc79e65338)
